@@ -1,7 +1,7 @@
 <!-- https://raw.githubusercontent.com/iamsunil25/Aryamanz29/master/images/connect-with-me.png -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=996633&size=50&center=true&vCenter=true&width=900&height=70&lines=Hey+There+👋,+I'm+Sunil+Joshi;+An+Open+Source+Enthusiast+☀;Frontend+Web+Developer+💻;A+Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=996633&size=50&center=true&vCenter=true&width=900&height=70&lines=Hey+There+👋,+I'm+Sunil+Joshi;+An+Open+Source+Enthusiast+☀;Frontend+Web+Developer+💻;A+Problem+Solver+🕵;I+am+Football+Lover+⚽;">
 </p>
 <hr>
 
@@ -13,13 +13,17 @@
 
 - 🌱 I’m currently learning **React, Data Structure & Algorithm, Español.**
 
-- 📫 How to reach me [**suniljoshi4984@gmail.com**](mailto:suniljoshi4984@gmail.com)
+- 📫 How to reach me [**suniljoshi4984@gmail.com**](mailto:suniljoshi4984@gmail.com).
 
--  📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/)
+-  📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/).
 
-- 📄 [**My CV/Resume**](https://drive.google.com/file/d/165uj5PaEOe8rBhb48D9Pcu2udW7hukXU/view?usp=sharing)
+- 📄 [**My CV/Resume**](https://drive.google.com/file/d/165uj5PaEOe8rBhb48D9Pcu2udW7hukXU/view?usp=sharing).
 
 - 🎵 I listen **Spanish and English cancions.**
+
+- 🏏 I Watch Cricket and Football ⚽.
+
+- ⚽ **Sergio Ramos Garcia** is my favorito Football player.
 
 -  👨‍🎤 Mi favorito Singer **Nicky Jam**.
 
