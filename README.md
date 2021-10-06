@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=996633&size=50&center=true&vCenter=true&width=900&height=70&lines=Hey+There+👋,+I'm+Sunil+Joshi;+An+Open+Source+Enthusiast+☀;Frontend+Web+Developer+💻;A+Problem+Solver+🕵;">
 </p>
-
 <hr>
 
 <p align="center">
@@ -13,11 +12,17 @@
 <hr>
 
 - 🌱 I’m currently learning **React, Data Structure & Algorithm, Español.**
+
 - 📫 How to reach me [**suniljoshi4984@gmail.com**](mailto:suniljoshi4984@gmail.com)
+
 -  📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/)
+
 - 📄 [**My CV/Resume**](https://drive.google.com/file/d/165uj5PaEOe8rBhb48D9Pcu2udW7hukXU/view?usp=sharing)
+
 - 🎵 I listen **Spanish and English cancions.**
+
 -  👨‍🎤 Mi favorito Singer **Nicky Jam**.
+
 - 🎦 Mi Favorito Movie **La vita y bella (life is beautiful)(italian).** 
   
 <hr>
@@ -32,13 +37,20 @@
 ![Sunil's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamsunil25&bg_color=111111&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)
   
 <hr>
-<iframe 
-src="https://open.spotify.com/embed/track/5Fim1gaXBgsiFfsQAfQSDS"
-width="49%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe src="https://open.spotify.com/embed/track/3B1q4Cv9PcYdiOpzqKSEIV" width="49%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe 
-src="https://open.spotify.com/embed/track/49dFIRQCQxPWgoH0m38XQ5"
-width="49%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe 
-src="https://open.spotify.com/embed/track/1zLBsSVxETQOfINOLYvT5m"
-width="49%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<!-- <img src="https://raw.githubusercontent.com/iamsunil25/Aryamanz29/master/images/connect-with-me.png" align ="center" alt="image"> -->
+
+
+<p align="center">
+</a> <a href="https://www.linkedin.com/in/iamsunil25" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sunil_linkedIn"/></a> <a href="https://www.instagram.com/iamsunil25/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sunil" /></a><a href="https://twitter.com/iamsunil25" target="blank"><img src="https://img.shields.io/twitter/follow/iamsunil25?logo=twitter&style=for-the-badge" align="center" alt="iamsunil25" /></a>
+</p>
+
+<hr>
+
+<!-- ----------- CONNECT WITH ME SECTION END ------------ -->
+
+
+[twitter]: https://twitter.com/iamsunil25
+[instagram]: https://www.instagram.com/iamsunil25/
+[linkedin]: https://www.linkedin.com/in/iamsunil25
+
