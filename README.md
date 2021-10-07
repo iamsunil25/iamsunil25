@@ -23,7 +23,7 @@
 
 - 🏏 I Watch Cricket and Football ⚽.
 
-- ⚽ **Sergio Ramos Garcia** is my favorito Football player.
+- ⚽ **Sergio Ramos Garcia** is mi favorito Football player.
 
 -  👨‍🎤 Mi favorito Singer **Nicky Jam**.
 
@@ -46,7 +46,9 @@
 
 
 <p align="center">
-</a> <a href="https://www.linkedin.com/in/iamsunil25" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sunil_linkedIn"/></a> <a href="https://www.instagram.com/iamsunil25/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sunil" /></a><a href="https://twitter.com/iamsunil25" target="blank"><img src="https://img.shields.io/twitter/follow/iamsunil25?logo=twitter&style=for-the-badge" align="center" alt="iamsunil25" /></a>
+ <h1 style= "font-size:50px;color:brown;">Connect With ME</h1>
+ <br>
+<a href="https://www.linkedin.com/in/iamsunil25" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sunil_linkedIn"/></a> <a href="https://www.instagram.com/iamsunil25/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sunil" /></a> <a href="https://twitter.com/iamsunil25" target="blank"><img src="https://img.shields.io/twitter/follow/iamsunil25?logo=twitter&style=for-the-badge" align="center" alt="iamsunil25" /></a>
 </p>
 
 <hr>
