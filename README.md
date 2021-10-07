@@ -42,21 +42,18 @@
   
 <hr>
 
-<!-- <img src="https://raw.githubusercontent.com/iamsunil25/Aryamanz29/master/images/connect-with-me.png" align ="center" alt="image"> -->
-
 
 <p align="center">
- <h1 style= "font-size:50px;color:brown;">Connect With ME</h1>
- <br>
+  <img src="https://raw.githubusercontent.com/Aryamanz29/Aryamanz29/master/images/connect-with-me.png" align ="center" alt="image"> 
+ </p>
+ 
+ 
+<p align="center">
 <a href="https://www.linkedin.com/in/iamsunil25" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sunil_linkedIn"/></a> <a href="https://www.instagram.com/iamsunil25/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sunil" /></a> <a href="https://twitter.com/iamsunil25" target="blank"><img src="https://img.shields.io/twitter/follow/iamsunil25?logo=twitter&style=for-the-badge" align="center" alt="iamsunil25" /></a>
 </p>
 
 <hr>
 
-<!-- ----------- CONNECT WITH ME SECTION END ------------ -->
-
-
 [twitter]: https://twitter.com/iamsunil25
 [instagram]: https://www.instagram.com/iamsunil25/
 [linkedin]: https://www.linkedin.com/in/iamsunil25
-
