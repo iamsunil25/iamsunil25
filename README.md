@@ -1,5 +1,3 @@
-<!-- https://raw.githubusercontent.com/iamsunil25/Aryamanz29/master/images/connect-with-me.png -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=996633&size=50&center=true&vCenter=true&width=900&height=70&lines=Hey+There+👋,+I'm+Sunil+Joshi;+An+Open+Source+Enthusiast+☀;Frontend+Web+Developer+💻;A+Problem+Solver+🕵;I+am+Football+Lover+⚽;">
 </p>
