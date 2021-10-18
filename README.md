@@ -15,8 +15,6 @@
 
 -  📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/).
 
-- 📄 [**My CV/Resume**](https://drive.google.com/file/d/165uj5PaEOe8rBhb48D9Pcu2udW7hukXU/view?usp=sharing).
-
 - 🎵 I listen **Spanish and English cancions.**
 
 - 🏏 I Watch Cricket and Football ⚽.
