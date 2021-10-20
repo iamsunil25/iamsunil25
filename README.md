@@ -19,7 +19,7 @@
 
 - 🎵 I listen **Spanish and English cancions.**
 
-- 🏏 I Watch Cricket and Football ⚽.
+- ⛹ I Watch and play Cricket 🏏 and Football.  
 
 - ⚽ **Sergio Ramos Garcia** is mi favorito Football player.
 
