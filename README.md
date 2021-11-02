@@ -4,9 +4,11 @@
 <hr>
 
 <p align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=iamsunil25&theme=onedark(https://github.com/ryo-ma/github-profile-trophy)">
-</p>
+  
+<img src= "https://github-profile-trophy.vercel.app/?username=iamsunil25&theme=onedark&row=2&column=3">
 
+</p>
+                                                                                                     
 <hr>
 
 - 🌱 I’m currently learning **React, Data Structure & Algorithm, Español.**
