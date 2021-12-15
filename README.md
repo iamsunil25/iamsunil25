@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **React, Data Structure & Algorithm, Español.**
 
+- 💻 Web Developer at Square Bits. 
+
 - 👨‍💻 Having 3 month internship experience in frontend **Angular 10** development.
 
 - 📫 How to reach me [**suniljoshi4984@gmail.com**](mailto:suniljoshi4984@gmail.com).
@@ -24,8 +26,6 @@
 - ⛹ I Watch and play Cricket 🏏 and Football.  
 
 - ⚽ **Sergio Ramos Garcia** is mi favorito Football player.
-
--  👨‍🎤 Mi favorito Singer **Nicky Jam**.
 
 - 🎦 Mi Favorito Movie **La vita y bella (life is beautiful)(italian).** 
   
