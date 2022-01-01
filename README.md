@@ -11,7 +11,7 @@
                                                                                                      
 <hr>
 
-- 🌱 I’m currently learning **React, Data Structure & Algorithm, Español.**
+- 🌱 I’m currently learning **React, Data Structure & Algorithm,System-Design, Español.**
 
 - 💻 Web Developer at Square Bits. 
 
@@ -21,7 +21,7 @@
 
 -  📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/).
 
-- 🎵 I listen **Spanish and English cancions.**
+- 🎵 I listen **Spanish and English canciones.**
 
 - ⛹ I Watch and play Cricket 🏏 and Football.  
 
