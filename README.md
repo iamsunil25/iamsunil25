@@ -11,7 +11,7 @@
                                                                                                      
 <hr>
 
-- 🌱 I’m currently learning **MERN, Data Structure & Algorithm,System-Design, Español.**
+- 🌱 I’m currently learning **MERN, AWS, Data Structure & Algorithm, System-Design, Español.**
 
 - 💻 Web Developer at Square Bits. 
 
