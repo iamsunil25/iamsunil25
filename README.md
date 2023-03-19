@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN, AWS, Data Structure & Algorithm, System-Design, Español.**
 
-- 💻 Web Developer at Square Bits. 
+- 💻 Web Developer at Squarebits. 
 
 - 👨‍💻 Having 3 month internship experience in frontend **Angular 10** development.
 
