@@ -11,23 +11,21 @@
                                                                                                      
 <hr>
 
-- 🌱 I’m currently learning **MERN, AWS, Data Structure & Algorithm, System-Design, Español.**
+- 🌱 I’m learning **MERN, AWS, Data Structure & Algorithm, System-Design, Docker, CI/CD (Jenkins)**
 
-- 💻 Web Developer at Squarebits. 
+- 💻 Frontend Web Developer at Square Bits. 
 
-- 👨‍💻 Having 3 month internship experience in frontend **Angular 10** development.
+- 👨‍💻 Having 1 year 8 months experience in Frontend Web Development (Reactjs).
 
-- 📫 How to reach me [**suniljoshi4984@gmail.com**](mailto:suniljoshi4984@gmail.com).
+- 👨‍💻 Having 3 month internship experience in frontend **Angular 10** Development.
 
--  📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/).
+- 📫 How to reach me [**suniljoshi4984@gmail.com**](mailto:suniljoshi4984@gmail.com)
 
-- 🎵 I listen **Spanish and English canciones.**
+-  📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/)
 
-- ⛹ I Watch and play Cricket 🏏 and Football.  
+-  ⚽ **Sergio Ramos Garcia**
 
-- ⚽ **Sergio Ramos Garcia** is mi favorito Football player.
-
-- 🎦 Mi Favorito Movie **La vita y bella (life is beautiful)(italian).** 
+-  🎦 Movie **La vita y bella (Life is beautiful) (italian)** 
   
 <hr>
 
@@ -46,11 +44,9 @@
 
  
 <p align="center">
-<a href="https://www.linkedin.com/in/iamsunil25" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sunil_linkedIn"/></a> <a href="https://www.instagram.com/iamsunil25/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sunil" /></a> <a href="https://twitter.com/iamsunil25" target="blank"><img src="https://img.shields.io/badge/Twitter-%231572B6?style=for-the-badge&logo=twitter&logoColor=5555" align="center" alt="iamsunil25" /></a>
+<a href="https://www.linkedin.com/in/iamsunil25" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sunil_linkedIn"/></a> 
 </p>
 
 <!-- <hr> -->
 
-[twitter]: https://twitter.com/iamsunil25
-[instagram]: https://www.instagram.com/iamsunil25/
 [linkedin]: https://www.linkedin.com/in/iamsunil25
