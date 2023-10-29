@@ -15,7 +15,7 @@
 
 - 💻 Frontend Web Developer at Square Bits. 
 
-- 👨‍💻 Having 1 year 8 months experience in Frontend Web Development (Reactjs).
+- 👨‍💻 Having 2 years of experience in Frontend Web Development (Reactjs).
 
 - 👨‍💻 Having 3 month internship experience in frontend **Angular 10** Development.
 
