@@ -11,21 +11,17 @@
                                                                                                      
 <hr>
 
-- 🌱 I’m learning **MERN, AWS, Data Structure & Algorithm, System-Design, Docker, CI/CD (Jenkins)**
+- 🌱 I’m learning AWS, Docker, CI/CD (Jenkins)**
 
-- 💻 Frontend Web Developer at Square Bits. 
+- 💻 Web Developer at Square Bits. 
 
-- 👨‍💻 Having 2 years of experience in Frontend Web Development (Reactjs).
-
-- 👨‍💻 Having 3 month internship experience in frontend **Angular 10** Development.
+- 👨‍💻 Having 2+ years of experience in MERN Stack Web Development.
 
 - 📫 How to reach me [**suniljoshi4984@gmail.com**](mailto:suniljoshi4984@gmail.com)
 
--  📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/)
+- 📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/)
 
--  ⚽ **Sergio Ramos Garcia**
-
--  🎦 Movie **La vita y bella (Life is beautiful) (italian)** 
+- Amor (1651773) 
   
 <hr>
 
