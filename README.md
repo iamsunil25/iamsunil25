@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=996633&size=50&center=true&vCenter=true&width=900&height=70&lines=Hola!+👋+Soy+Sunil;Just+Javascript;Web+Developer+at+Square+Bits+💻;Tiki⚽Taka;Vamos⚽Argentina">
+  <img src="https://readme-typing-svg.herokuapp.com?color=996633&size=50&center=true&vCenter=true&width=900&height=70&lines=Hola!+👋+Soy+Sunil;Just+Javascript;MERN+Stack+Web+Developer+💻;Tiki⚽Taka;Vamos⚽Argentina">
 </p>
 <hr>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m learning AWS, Docker, CI/CD (Jenkins)**
 
-- 💻 Web Developer at Square Bits. 
+- 💻 MERN Stack Web Developer at Square Bits. 
 
 - 👨‍💻 Having 2+ years of experience in MERN Stack Web Development.
 
@@ -21,7 +21,7 @@
 
 - 📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/)
 
--  Amor (1651773)
+-  Amor (1651773 && 7 && 240 && 370)
   
 <hr>
 
