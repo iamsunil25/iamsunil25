@@ -11,7 +11,7 @@
                                                                                                      
 <hr>
 
-- 🌱 I’m learning AWS, Docker, CI/CD (Jenkins)**
+- 🌱 I’m learning AWS, Docker, CI/CD (Jenkins)
 
 - 💻 MERN Stack Web Developer at Square Bits. 
 
