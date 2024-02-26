@@ -13,15 +13,13 @@
 
 - 🌱 I’m learning AWS, Docker, CI/CD (Jenkins)
 
-- 💻 MERN Stack Web Developer at Square Bits. 
+- 💻 MERN Stack Web Developer
 
 - 👨‍💻 Having 2+ years of experience in MERN Stack Web Development.
 
 - 📫 How to reach me [**suniljoshi4984@gmail.com**](mailto:suniljoshi4984@gmail.com)
 
 - 📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/)
-
--  Amor (1651773)
   
 <hr>
 
