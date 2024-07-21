@@ -21,8 +21,6 @@
 
 - 📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/)
 
--   **1651773**
-  
 <hr>
 
 
