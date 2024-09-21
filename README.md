@@ -3,13 +3,8 @@
 </p>
 <hr>
 
-<p align="center">
-  
-<img src= "https://github-profile-trophy.vercel.app/?username=iamsunil25&theme=onedark&row=2&column=3">
 
-</p>
-                                                                                                     
-<hr>
+                                                                                          
 
 - 🌱 I’m learning AWS, Docker, CI/CD (Jenkins)
 
@@ -30,20 +25,34 @@
 <!-- ![Java](https://img.shields.io/badge/Java-FF6C37?style=for-the-badge&logo=java&logoColor=green) -->
 <hr>
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsunil25&show_icons=true&count_private=true&theme=react" />
+
 
 <!-- [Sunil's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamsunil25&bg_color=111111&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)
   
 <hr> -->
 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/iamsunil25" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sunil_linkedIn"/></a> 
-</p>
-
-
 <!-- <hr> -->
 
-[linkedin]: https://www.linkedin.com/in/iamsunil25
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/iamsunil25/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/iamsunil25/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+<hr>
+
+<p align="center">
+
 
 ![snake gif](https://github.com/iamsunil25/iamsunil25/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsunil25&show_icons=true&count_private=true&theme=react" />
+<br>
+
+  <br>
+<img src= "https://github-profile-trophy.vercel.app/?username=iamsunil25&theme=onedark&row=2&column=3">
+
+
+</p>
