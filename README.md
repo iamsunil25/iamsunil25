@@ -46,4 +46,4 @@
 
 [linkedin]: https://www.linkedin.com/in/iamsunil25
 
-![snake gif](https://github.com/iamsunil25/iamsunil25/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/iamsunil25/iamsunil25/blob/output/github-contribution-grid-snake.svg)
