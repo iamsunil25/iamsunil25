@@ -36,11 +36,14 @@
   
 <hr> -->
 
- 
+
 <p align="center">
 <a href="https://www.linkedin.com/in/iamsunil25" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sunil_linkedIn"/></a> 
 </p>
 
+
 <!-- <hr> -->
 
 [linkedin]: https://www.linkedin.com/in/iamsunil25
+
+![snake gif](https://github.com/iamsunil25/iamsunil25/blob/output/github-contribution-grid-snake.svg)
