@@ -54,5 +54,9 @@
   <br>
 <img src= "https://github-profile-trophy.vercel.app/?username=iamsunil25&theme=onedark&row=2&column=3">
 
+<br>
+<br>
 
+<img alt="Sunil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsunil25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<br>
 </p>
