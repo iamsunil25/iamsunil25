@@ -10,7 +10,7 @@
 
 - 💻 MERN Stack Web Developer
 
-- 👨‍💻 Having 3 years of experience in MERN Stack Web Development.
+- 👨‍💻 Having 3+ years of experience in MERN Stack Web Development.
 
 - 📫 How to reach me [**suniljoshi4984@gmail.com**](mailto:suniljoshi4984@gmail.com)
 
