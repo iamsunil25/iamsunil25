@@ -1,62 +1,73 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=996633&size=50&center=true&vCenter=true&width=900&height=70&lines=Hola!+👋+Soy+Sunil;Just+Javascript;MERN+Stack+Web+Developer+💻;Tiki⚽Taka;Vamos⚽Argentina;Knight🏏Riders">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=900&height=70&lines=Hi+there!+I'm+Sunil+👋;Full+Stack+Developer+at+Jaipuria+Institute;4+Years+of+Experience+in+Full+Stack+Development;Mastering+AWS%2C+Docker+%26+Next.js">
 </p>
-<hr>
 
+### 💫 About Me:
+- 📍 Based in **Delhi, India**
+- 🏰 Born and raised in the Blue City, **Jodhpur**
+- 🎓 **B.Tech in Computer Science** from **JIET Jodhpur**
+- 👨‍💻 **4+ years** of experience building user-friendly, full-stack web applications 
+- 🔭 Currently a **Full Stack Developer** at **Jaipuria Institute of Management**
+- 🌱 Mastering: **AWS, Docker, and CI/CD (Jenkins)** to bridge the gap between Dev and Ops
+- 📺 Project featured on **Shark Tank India Season 2** (Dota-js)
 
-                                                                                          
+---
 
-- 🌱 I’m learning AWS, Docker, CI/CD (Jenkins)
+### 💼 Professional Journey:
+* **Full Stack Developer** | Jaipuria Institute of Management (April 2025 – Present)
+    * Architecting full-stack applications using **Next.js**, **Node.js**, and **MySQL**
+* **Senior Web Developer** | iNoid Solutions (March 2024 – April 2025)
+    * Optimized database queries and developed scalable **REST APIs**
+* **Web Developer** | Square Bits (Dec 2021 – Feb 2024)
+    * Engineered client applications using React.js and Node.js within **Agile** teams
 
-- 💻 MERN Stack Web Developer
+---
 
-- 👨‍💻 Having 3+ years of experience in MERN Stack Web Development.
+### 🛠️ Tech Stack:
 
-- 📫 How to reach me [**suniljoshi4984@gmail.com**](mailto:suniljoshi4984@gmail.com)
+**Frontend & Testing**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-- 📁 [**My Portfolio**](https://iamsunil25.github.io/portfolio/)
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<hr>
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Typescript](https://img.shields.io/badge/typescript-FF6C37?style=for-the-badge&logo=typescript&logoColor=%23f7df1e)   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/mui-226527?style=for-the-badge&logo=mui&logoColor=blue) ![ReactJS](https://img.shields.io/badge/Reactjs-234523?style=for-the-badge&logo=react&logoColor=5555) ![REDUX](https://img.shields.io/badge/REDUX-$226527?style=for-the-badge&logo=redux&logoColor=blue) ![Angular](https://img.shields.io/badge/Angular-FF6C37?style=for-the-badge&logo=Angular&logoColor=5555) ![NodeJS](https://img.shields.io/badge/nodejs-234523?style=for-the-badge&logo=node.js&logoColor=5555) ![ExpressJS](https://img.shields.io/badge/ExpressJs-226527?style=for-the-badge&logo=express&logoColor=5555) ![MongoDB](https://img.shields.io/badge/Mongodb-116527?style=for-the-badge&logo=mongodb&logoColor=11111) ![GRAPHQL](https://img.shields.io/badge/graphql-216527?style=for-the-badge&logo=graphql&logoColor=pink) ![REDIS](https://img.shields.io/badge/REDIS-226527?style=for-the-badge&logo=redis&logoColor=1112) ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white%22) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-<!-- ![Sass](https://img.shields.io/badge/-Sass-brightgreen) ![SQL](https://img.shields.io/badge/-Sass-blueviolet) ![Angular Material](https://img.shields.io/badge/-Angular%20Material-brightgreen) -->
+### 🚀 High-Impact Projects:
 
-<!-- ![Java](https://img.shields.io/badge/Java-FF6C37?style=for-the-badge&logo=java&logoColor=green) -->
-<hr>
+* **REDDI Dating App**
+    * Engineered a matching algorithm using **MongoDB aggregation pipelines**, reducing data processing time by **30%**
+    * Streamlined administrative tasks by **40%** through an enhanced Admin panel
+* **Muse POS (Point of Sale)**
+    * Developed merchant panels on **AWS** to manage KDS devices and sub-administrators
+* **Dota-js Translation Script**
+    * Integrated translation functionality via Devnagri API, featured on **Shark Tank India**
 
+---
 
-
-<!-- [Sunil's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamsunil25&bg_color=111111&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)
-  
-<hr> -->
-
-<!-- <hr> -->
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/iamsunil25/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/iamsunil25/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
-<hr>
+### 📊 GitHub Analytics:
 
 <p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsunil25&theme=react&hide_border=false" />
+</p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamsunil25&theme=react&area=true&hide_border=false" />
+</p>
 
-![snake gif](https://github.com/iamsunil25/iamsunil25/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/iamsunil25/iamsunil25/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-<br>
+---
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsunil25&show_icons=true&count_private=true&theme=react" />
-<br>
-
-  <br>
-<img src= "https://github-profile-trophy.vercel.app/?username=iamsunil25&theme=onedark&row=2&column=3">
-
-<br>
-<br>
-
-<img alt="Sunil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsunil25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-<br>
+### 📫 Connect with me:
+<p align="left">
+<a href="https://iamsunil25.github.io/portfolio/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/portfolio.png" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/iamsunil25/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" width="30" /></a>
+<a href="https://www.instagram.com/iamsunil25/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" height="30" width="30" /></a>
+<a href="mailto:suniljoshi2621@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" width="30" /></a>
 </p>
