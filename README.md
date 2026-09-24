@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=900&height=70&lines=Hi+there!+I'm+Sunil+👋;Full+Stack+Developer+at+Jaipuria+Institute;4+Years+of+Experience+in+Full+Stack+Development;Mastering+AWS%2C+Docker+%26+Next.js">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=900&height=70&lines=Hi+there!+I'm+Sunil+👋;Full+Stack+Developer+at+Jaipuria+Institute;5 Years+of+Experience+in+Full+Stack+Development;Mastering+AWS%2C+Docker+%26+Next.js">
 </p>
 
 ### 💫 About Me:
 - 📍 Based in **Delhi, India**
 - 🏰 Born and raised in the Blue City, **Jodhpur**
 - 🎓 **B.Tech in Computer Science** from **JIET Jodhpur**
-- 👨‍💻 **4+ years** of experience building user-friendly, full-stack web applications 
+- 👨‍💻 **5 years** of experience building user-friendly, full-stack web applications 
 - 🔭 Currently a **Full Stack Developer** at **Jaipuria Institute of Management**
 - 🌱 Mastering: **AWS, Docker, and CI/CD (Jenkins)** to bridge the gap between Dev and Ops
 - 📺 Project featured on **Shark Tank India Season 2** (Dota-js)
